@@ -1,0 +1,48 @@
+{
+  "boxes": [
+    {
+      "number": "001",
+      "size": "M",
+      "status": "配備待ち"
+    },
+    {
+      "number": "003",
+      "size": "M",
+      "status": "検証進捗 1/7"
+    },
+    {
+      "number": "001",
+      "size": "M",
+      "status": "配備待ち"
+    },
+    {
+      "number": "001",
+      "size": "M",
+      "status": "配備待ち"
+    },
+    {
+      "number": "002",
+      "size": "L",
+      "status": "完了"
+    },
+    {
+      "number": "002",
+      "size": "L",
+      "status": "配備待ち"
+    },
+    {
+      "number": "002",
+      "size": "L",
+      "status": "完了"
+    },
+    {
+      "number": "002",
+      "size": "L",
+      "status": "配備待ち"
+    }
+  ],
+  "count_by_size": {
+    "M": 4,
+    "L": 4
+  }
+}
